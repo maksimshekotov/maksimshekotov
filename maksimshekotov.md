@@ -16,8 +16,6 @@
 - I learned about Git "coding" a bunch of time ago and now i can upload files from my computer to github.
 - Really usefull thanks. to be honest, I don't think that feature is bad, I just don't really need it, and im not trying to 
 - be mean to terminal commands.
-*
-*
 
 # PS
 
